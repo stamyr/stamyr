@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Stamyr ✨ 
+- 👀 I’m interested in Blockchain Technology!
+- 🌱 I’m currently learning coding Blockchain Projects using Solidity.
+- 💞️ I’m looking to collaborate on new and upcoming Blockchain projects, I am most interested in Smart Contract Development & Blockchain Security.
+- 📫 How to reach me: e-mail me at stamyrrousseau@gmail.com!
